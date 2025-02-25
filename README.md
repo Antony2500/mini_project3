@@ -29,4 +29,5 @@ This project created for new mini project with current functionality:
 2. Chose right dir -> ```cd miniproject```
 3. Create venv -> ```bash python -m venv my_env```
 4. Activate venv -> ```.\my_env\Scripts\activate```
-5. Run server -> ```uvicorn app:main --port 8010```
+5. Install requirements -> ```pip install -r requirements.txt```
+6. Run server -> ```uvicorn app:main --port 8010```
